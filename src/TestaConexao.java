@@ -34,6 +34,7 @@ public class TestaConexao {
 		contatoAlterar.setDataNascimento(Calendar.getInstance());
 		contatoDao.altera(contatoAlterar);
 		
+		
 	}
 
 }
